@@ -11,4 +11,8 @@
         @apply font-semibold;
         @apply text-[25px];
     }
+    input,
+    textarea {
+        @apply text-[25px];
+    }
 }
